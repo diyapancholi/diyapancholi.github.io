@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://static.wikia.nocookie.net/himym/images/c/c6/HIMYM_Official_Soundtrack.jpg/revision/latest/scale-to-width-down/180?cb=20120924235757" alt="How I Met Your Music" width="250" />](https://open.spotify.com/playlist/22lPB64dcMyu8YnbFD6245)
+[<img src="https://static.wikia.nocookie.net/himym/images/c/c6/HIMYM_Official_Soundtrack.jpg/revision/latest/scale-to-width-down/180?cb=20120924235757" alt="How I Met Your Music" width="100" />](https://open.spotify.com/playlist/22lPB64dcMyu8YnbFD6245)
 
 ### Connect with me:
 

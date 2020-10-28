@@ -14,12 +14,12 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://static.wikia.nocookie.net/himym/images/c/c6/HIMYM_Official_Soundtrack.jpg/revision/latest/scale-to-width-down/180?cb=20120924235757" alt="How I Met Your Music" width="100" />](https://open.spotify.com/playlist/22lPB64dcMyu8YnbFD6245)
+[<img src="https://static.wikia.nocookie.net/himym/images/c/c6/HIMYM_Official_Soundtrack.jpg/revision/latest/scale-to-width-down/180?cb=20120924235757" alt="How I Met Your Music" width="200" />](https://open.spotify.com/playlist/22lPB64dcMyu8YnbFD6245)
 
 ### Connect with me:
 
 
-[<img align="left" alt="diya-pancholi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://www.linkedin.com/in/diya-pancholi-34b0b81b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMRs5hXgUQuSTf4HhkvL89g%3D%3D | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="diyapancholi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -46,28 +46,13 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-<!--END_SECTION:activity-->
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
 
 
 [youtube]: https://youtube.com/diyapancholi
 [instagram]: https://instagram.com/diyapancholi
-[linkedin]: https://linkedin.com/in/diyapancholi
+[linkedin]: https://www.linkedin.com/in/diya-pancholi-34b0b81b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMRs5hXgUQuSTf4HhkvL89g%3D%3D
 

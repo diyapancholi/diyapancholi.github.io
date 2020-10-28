@@ -3,7 +3,7 @@
 
 
 
-## I'm a Student, learner, painter!!
+## I'm a Student, learner, painter and a dancer!!
 
 
 - 🌱 I’m currently learning everything 🤣
@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://open.spotify.com/album/0nzKO3ydTYeXC4RTPSXEv1?si=yVpDrAt2QEe5h7PIGmtOBA" alt="How I Met Your Music" width="350" />](https://open.spotify.com/album/0nzKO3ydTYeXC4RTPSXEv1?si=iYu8Ql-KRo2k24wiYiHI4A)
+[<img src="https://static.wikia.nocookie.net/himym/images/c/c6/HIMYM_Official_Soundtrack.jpg/revision/latest/scale-to-width-down/180?cb=20120924235757" alt="How I Met Your Music" width="350" />](https://open.spotify.com/playlist/22lPB64dcMyu8YnbFD6245)
 
 ### Connect with me:
 
